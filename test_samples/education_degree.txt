@@ -1,0 +1,11 @@
+UNIVERSITY OF DELHI
+Bachelor of Technology in Computer Science
+Student Name: Sanjay Mishra
+Roll Number: 2019CS104
+Date of Birth: 15/08/1990
+Course Duration: 2019 - 2023
+CGPA: 8.9
+Degree Awarded: B.Tech (Computer Science)
+Issue Date: 12/07/2023
+Validity: Lifetime
+University Seal: Verified

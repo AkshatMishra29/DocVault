@@ -1,0 +1,120 @@
+INFO:     Will watch for changes in these directories: ['/Users/sanjaymishra/Desktop/DocVault/backend']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [1372] using WatchFiles
+INFO:     Started server process [1374]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+✅ Connected to MongoDB Atlas
+INFO:     127.0.0.1:49598 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49637 - "OPTIONS /auth/google HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49637 - "POST /auth/google HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49637 - "OPTIONS /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49642 - "OPTIONS /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49645 - "OPTIONS /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49646 - "OPTIONS /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49637 - "GET /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49646 - "GET /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49645 - "GET /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49646 - "GET /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49660 - "OPTIONS /vault/6aa6ea4b5dcfd23bc5cb2364 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49662 - "OPTIONS /vault/6aa6ea4b5dcfd23bc5cb2364 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49660 - "GET /vault/6aa6ea4b5dcfd23bc5cb2364 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49662 - "GET /vault/6aa6ea4b5dcfd23bc5cb2364 HTTP/1.1" 200 OK
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 6975.95it/s]
+INFO:     127.0.0.1:49665 - "PATCH /vault/6aa6ea4b5dcfd23bc5cb2364 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49665 - "GET /vault/6aa6ea4b5dcfd23bc5cb2364 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49665 - "GET /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49665 - "GET /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49669 - "GET /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49665 - "GET /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49669 - "GET /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49674 - "GET /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49676 - "OPTIONS /search HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49676 - "POST /search HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49678 - "POST /search HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'app/routes/cards.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1374]
+WARNING:  WatchFiles detected changes in 'app/services/llm_service.py'. Reloading...
+INFO:     Started server process [1518]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1518]
+WARNING:  WatchFiles detected changes in 'app/services/llm_service.py'. Reloading...
+INFO:     Started server process [1522]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1522]
+INFO:     Started server process [1523]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+✅ Connected to MongoDB Atlas
+INFO:     127.0.0.1:49780 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49817 - "OPTIONS /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49820 - "OPTIONS /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49822 - "OPTIONS /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49823 - "OPTIONS /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49817 - "GET /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49823 - "GET /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49822 - "GET /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49823 - "GET /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49829 - "OPTIONS /search HTTP/1.1" 200 OK
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 9066.20it/s]
+INFO:     127.0.0.1:49829 - "POST /search HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49847 - "GET /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49847 - "GET /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49847 - "GET /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49850 - "GET /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49847 - "GET /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49850 - "GET /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49847 - "GET /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49853 - "GET /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49869 - "OPTIONS /auth/otp/request HTTP/1.1" 200 OK
+[OTP Service] Generated OTP for +91 98765 43210: 609007
+INFO:     127.0.0.1:49869 - "POST /auth/otp/request HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49874 - "OPTIONS /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49874 - "POST /auth/login HTTP/1.1" 401 Unauthorized
+[OTP Service] Generated OTP for 7055465390: 710074
+INFO:     127.0.0.1:49876 - "POST /auth/otp/request HTTP/1.1" 200 OK
+[OTP Service] Generated OTP for +91 98765 43210: 218416
+INFO:     127.0.0.1:49881 - "POST /auth/otp/request HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49945 - "OPTIONS /auth/google HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49945 - "POST /auth/google HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49945 - "OPTIONS /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49949 - "OPTIONS /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49950 - "OPTIONS /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49951 - "OPTIONS /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49949 - "GET /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49945 - "GET /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49951 - "GET /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49950 - "GET /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49968 - "OPTIONS /search HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49968 - "POST /search HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50039 - "OPTIONS /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50040 - "OPTIONS /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50039 - "GET /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50040 - "GET /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50043 - "OPTIONS /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50045 - "OPTIONS /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50046 - "GET /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50044 - "GET /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50045 - "GET /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50043 - "GET /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50270 - "OPTIONS /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50271 - "OPTIONS /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50274 - "OPTIONS /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50275 - "OPTIONS /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50270 - "GET /vault HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50271 - "GET /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50270 - "GET /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50275 - "GET /vault HTTP/1.1" 200 OK
+/opt/homebrew/Cellar/python@3.12/3.12.14/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/resource_tracker.py:279: UserWarning: resource_tracker: There appear to be 2 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
