@@ -1,3 +1,2 @@
 # DocVault
-This repo contains the full doc-vault project 
-Hi
+This repo contains the full doc-vault project
